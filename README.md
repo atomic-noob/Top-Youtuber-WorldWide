@@ -19,7 +19,7 @@ This Power BI report provides a visual analysis of the top YouTubers across the 
 ---
 
 ## 🛠 Data Source
-The report uses data collected from **[insert source, e.g., YouTube API, Kaggle dataset, CSV file]**.  
+The report uses data collected from https://www.kaggle.com/datasets/shiivvvaam/top-youtuber-worldwide/data
 Data transformation and modeling are handled in Power BI using Power Query and DAX measures.
 
 ---
